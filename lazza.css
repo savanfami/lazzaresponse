@@ -1,0 +1,58 @@
+.navbar{
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.image{
+    width: 120px;
+    height:66px
+}
+
+@media(max-width:800px)
+{
+    .image{
+        width: 80px;
+        height:46px;
+        margin-left: -50px;
+    }
+    
+}
+.section-div{
+    width: 100%;
+}
+.whatspp{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 60px;
+    height: 60px;    
+}
+.last-final{
+
+background-color: black;
+}
+.foot-para{
+    font-weight: 900;
+    font-size: 18px;
+    color: #be9509;
+}
+.box a {
+    color: #be9509;
+    text-decoration: none;
+    font-size: 18px;}
+.copyright{
+    background-color: black;
+    height: 50px;
+
+}
+.copyright p{
+    color:#be9509;
+}
+.carousel{
+    margin-top:63px;
+}
+#btn{
+    background-color: black;
+    color:#be9509;
+    
+}
